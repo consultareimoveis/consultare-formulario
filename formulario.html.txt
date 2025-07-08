@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Formulário - Consultare Imóveis</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      background-color: #f4f4f4;
+      color: #333;
+    }
+    header {
+      background-color: #003366;
+      color: white;
+      padding: 1rem;
+      text-align: center;
+    }
+    .container {
+      max-width: 900px;
+      margin: 20px auto;
+      padding: 20px;
+      background-color: white;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+    iframe {
+      width: 100%;
+      height: 700px;
+      border: none;
+    }
+    footer {
+      text-align: center;
+      padding: 10px;
+      font-size: 0.9rem;
+      color: #777;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Consultare Imóveis</h1>
+    <p>Formulário de Atendimento</p>
+  </header>
+
+  <div class="container">
+    <iframe src="https://form.jotform.com/240994406475667" allowfullscreen></iframe>
+  </div>
+
+  <footer>
+    &copy; 2025 Consultare Imóveis. Todos os direitos reservados.
+  </footer>
+
+</body>
+</html>
